@@ -1,8 +1,8 @@
 ### Hi, I'm Julian 👋
-👨🏼‍💻 Data Analyst sharing my personal data science and quant-finance projects <br/>
+👨🏼‍💻 Data science and quant-finance projects <br/>
 👨🏼‍🎓 MSc in Finance & Economcis <br/>
 ⌚ Watch enthusiast <br/>
-💡 I'm currently learning JavaScript <br/><br/>
+💡 Currently learning JavaScript <br/><br/>
 
 
 ### 💻 Tech Stack
