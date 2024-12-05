@@ -19,7 +19,7 @@
 
 
 ### 📊 GitHub Stats
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=profit-prophet00&show_icons=true&theme=dracula)]
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=profit-prophet00&show_icons=true&theme=dracula)
 
 
 
