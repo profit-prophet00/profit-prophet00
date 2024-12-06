@@ -1,5 +1,5 @@
 ### Hi, I'm Julian 👋
-👨🏼‍💻 Data science and quant-finance projects <br/>
+👨🏼‍💻 Creating data science and quant-finance projects <br/>
 👨🏼‍🎓 MSc in Finance & Economcis <br/>
 ⌚ Watch enthusiast <br/>
 💡 Currently learning JavaScript <br/><br/>
